@@ -1,0 +1,15 @@
+title: "Промокоды Нетпринт 2026"
+description: "Актуальные промокоды Нетпринт — проверяются ежедневно. Скидка 30% на первый заказ."
+url: "https://netprint-promo.github.io"
+baseurl: "/netprint-promo"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
