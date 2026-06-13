@@ -7,9 +7,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
+webmaster_verifications:
+  yandex: "d4e8f6842363525a"
