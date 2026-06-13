@@ -25,6 +25,13 @@
 - [ТОП 12 промокоды Netprint](/netprint-promo/11-june-2026.html)
 - [Промокод Нетпринт 2026: все рабочие коды, скидки до 30% и советы по экономии](/netprint-promo/promokod-netprint-2026.html)
 
+## 📅 Статьи по датам
+
+| Дата | Статья |
+|---|---|
+| 13 июня 2026 | [Промокод Нетпринт 13 июня — проверено сегодня утром](https://netprint-promo.github.io/netprint-promo/13-june-2026.html) |
+| 11 июня 2026 | [ТОП-12 промокодов Netprint — июнь 2026](https://netprint-promo.github.io/netprint-promo/11-june-2026.html) |
+
 ## Как активировать промокод Нетпринт — подробная инструкция
 
 1. Перейдите на официальный сайт [netprint.ru](https://netprint.ru)
