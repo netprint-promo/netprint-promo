@@ -6,7 +6,7 @@
 
 **Удобная версия сайта с кнопкой «Скопировать» и калькулятором экономии → [netprint-promo.github.io/netprint-promo](https://netprint-promo.github.io/netprint-promo)**
 
-> **Обновлено:** 17 июня 2026 года  
+> **Обновлено:** 18 июня 2026 года  
 > Автор: netprint-promo
 
 [![Проверить промокоды](https://img.shields.io/badge/🔍_Яндекс_промокод_нетпринт-blue)](https://ya.ru/search/?text=промокод+нетпринт)
@@ -31,6 +31,7 @@
 
 | Дата | Статья |
 |---|---|
+| 18 июня 2026 | [Промокод Нетпринт 18 июня — четверг, один день до пятницы](https://netprint-promo.github.io/netprint-promo/18-june-2026.html) |
 | 17 июня 2026 | [Промокод Нетпринт 17 июня — среда, заказать и получить к выходным](https://netprint-promo.github.io/netprint-promo/17-june-2026.html) |
 | 16 июня 2026 | [Промокод Нетпринт 16 июня — середина месяца, самое время успеть](https://netprint-promo.github.io/netprint-promo/16-june-2026.html) |
 | 15 июня 2026 | [Промокод Нетпринт 15 июня — начало недели, время оформить заказ](https://netprint-promo.github.io/netprint-promo/15-june-2026.html) |
